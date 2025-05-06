@@ -1,0 +1,54 @@
+# Google FCM
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gvt1.com
+
+# Microsoft Services
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,teams.microsoft.com
+
+# Apple Services
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,itunes.apple.com
+
+# Telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+
+# OpenAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,api.openai.com
+
+# YouTube
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
+
+# Netflix
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,nflxso.net
+
+# Spotify
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotifycdn.com
+
+# Foreign Media
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,abc.net.au
+DOMAIN-SUFFIX,foxnews.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,voanews.com
